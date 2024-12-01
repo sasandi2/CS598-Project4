@@ -9,7 +9,7 @@
 After downloading this folder, open R console and run the follwing commands to deploy the app remotely.
 
 library(rsconnect)
-rsconnect::deployApp('path/to/the/downloaded/folder')
+</br>rsconnect::deployApp('path/to/the/downloaded/folder')
 
 - If you haven't installed "rsconnect" package yet, run the following command.
 
